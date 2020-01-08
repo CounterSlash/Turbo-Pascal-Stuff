@@ -1,4 +1,4 @@
-Program Shitty_Test;
+Program Average-Calculator;
 uses Crt;
 Label 1;        {Label for the negative number check and number input loop}
 Label 2;        {Label for final average calculation}
@@ -25,5 +25,3 @@ readln(v);
 if v=1 then goto 0
 else
 end.
-
-
